@@ -94,7 +94,8 @@ IITK-SemEval-2024-Task-4-Persuation-Techniques/
 
 ## Our Models: 
 The models trained and used for submission can be found below:
-https://onedrive.live.com/?id=A668F45668274EE0!85382&cid=A668F45668274EE0
+https://1drv.ms/f/s!AuBOJ2hW9GimhZsGvBc6Y_JrXf5Xtg?e=Nwtyar
+
 
 ### Drive Directory Structure
 
