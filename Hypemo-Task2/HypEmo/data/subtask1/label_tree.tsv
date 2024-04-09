@@ -1,0 +1,88 @@
+ethos	root
+pathos	root
+logos	root
+ad-hominem	ethos
+justification	logos
+reasoning	logos
+Name calling/Labeling	ad-hominem
+Doubt	ad-hominem
+Smears	ad-hominem
+Reductio ad hitlerum	ad-hominem
+Whataboutism	ad-hominem
+Bandwagon	ethos
+Appeal to authority	ethos
+Glittering generalities (Virtue)	ethos
+appeal to emotion	pathos
+Exaggeration/Minimisation	pathos
+Loaded Language	pathos
+Flag-waving	pathos
+Appeal to fear/prejudice	pathos
+Bandwagon_1	justification
+Appeal to authority_1	justification
+Flag-waving_1	justification
+Appeal to fear/prejudice_1	justification
+Slogans	justification
+Repetition	logos
+Obfuscation, Intentional vagueness, Confusion	logos
+distraction	reasoning
+simplification	reasoning
+Misrepresentation of Someone's Position (Straw Man)	distraction
+Presenting Irrelevant Data (Red Herring)	distraction
+Whataboutism_1	distraction
+Causal Oversimplification	simplification
+Black-and-white Fallacy/Dictatorship	simplification
+Thought-terminating cliché	simplification
+Name calling/Labeling	ethos
+Doubt	ethos
+Smears	ethos
+Reductio ad hitlerum	ethos
+Whataboutism	ethos
+Name calling/Labeling	root
+Doubt	root
+Smears	root
+Reductio ad hitlerum	root
+Whataboutism	root
+ad-hominem	root
+Bandwagon	root
+Appeal to authority	root
+Glittering generalities (Virtue)	root
+appeal to emotion	root
+Exaggeration/Minimisation	root
+Loaded Language	root
+Flag-waving	root
+Appeal to fear/prejudice	root
+Bandwagon_1	logos
+Appeal to authority_1	logos
+Flag-waving_1	logos
+Appeal to fear/prejudice_1	logos
+Slogans	logos
+Bandwagon_1	root
+Appeal to authority_1	root
+Flag-waving_1	root
+Appeal to fear/prejudice_1	root
+Slogans	root
+justification	root
+Repetition	root
+Obfuscation, Intentional vagueness, Confusion	root
+distraction	logos
+simplification	logos
+distraction	root
+simplification	root
+Misrepresentation of Someone's Position (Straw Man)	reasoning
+Presenting Irrelevant Data (Red Herring) 	reasoning
+Whataboutism_1	reasoning
+Causal Oversimplification	reasoning
+Black-and-white Fallacy/Dictatorship	reasoning
+Thought-terminating cliché	reasoning
+Misrepresentation of Someone's Position (Straw Man)	logos
+Presenting Irrelevant Data (Red Herring) 	logos
+Whataboutism_1	logos
+Causal Oversimplification	logos
+Black-and-white Fallacy/Dictatorship	logos
+Thought-terminating cliché	logos
+Misrepresentation of Someone's Position (Straw Man)	root
+Presenting Irrelevant Data (Red Herring) 	root
+Whataboutism_1	root
+Causal Oversimplification	root
+Black-and-white Fallacy/Dictatorship	root
+Thought-terminating cliché	root
